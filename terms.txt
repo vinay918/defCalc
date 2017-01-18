@@ -1,0 +1,4 @@
+Usage of defCalc is strictly non-commercial. It was built as our final project for CSCE-155N at the 
+University of Nebraska-Lincoln and may not be re-used in any direct or indirect manner without prior 
+approval from the creators as this program contains copyright material from the University of 
+Nebraska-Lincoln College of Engineering.
